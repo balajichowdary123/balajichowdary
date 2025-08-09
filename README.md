@@ -1,115 +1,91 @@
-<!-- Banner -->
+<!-- CYBERPUNK GLITCH BANNER -->
 <p align="center">
-  <img src="assets/banner.gif" width="100%" alt="Balaji Chowdary">
+  <img src="https://raw.githubusercontent.com/balajichowdary123/balajichowdary123/main/assets/glitch-banner.gif" width="100%" alt="Glitch Banner">
 </p>
 
-<!-- Title -->
-<h1 align="center">Hi 👋, I'm Balaji Chowdary</h1>
-<h3 align="center">🚀 Frontend Developer | 🤖 AI Enthusiast | 💻 CSE Student</h3>
+<!-- TERMINAL STYLE INTRO -->
+```bash
+> Hello World! I'm Balaji Chowdary
+> CSE Student | Full Stack Developer | AI/ML Enthusiast
+> Crafting code & pixels since 2025
+````
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=800&color=FF6EC7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing Animation">
-</p>
+<!-- ANIMATED TYPING -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=26\&duration=3000\&pause=800\&color=00F7FF\&center=true\&vCenter=true\&width=900\&lines=Turning+Ideas+into+Reality...;Building+Next+Gen+Web+%26+AI+Apps...;Always+Learning+New+Things...)](https://git.io/typing-svg)
 
 ---
 
-## 🧑‍💻 About Me  
-💡 Passionate about **problem-solving** and **building scalable software**.  
-🎯 Focused on **Web Development**, **AI/ML**, and **Open Source**.  
-📍 Based in **Bengaluru, India**.  
+## 🧑‍💻 About Me
+
+🎯 **Focused On:** Full Stack Dev, AI/ML, Open Source
+⚡ **Fun Fact:** I turn coffee into scalable code ☕➡💻
+📍 **Location:** Bengaluru, India
 
 ---
 
-## 🛠 Tech Stack  
+## ⚡ Skills & Tools
 
-**Languages**  
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e">
-</p>
-
-**Frameworks & Tools**  
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61dafb">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
-</p>
-
-**Databases**  
-<p align="center">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,react,nodejs,django,mysql,mongodb,flutter,docker,git,aws" />
+</div>
 
 ---
 
-## 🚀 Featured Projects  
+## 🎵 Now Playing on Spotify
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🌐 **[Portfolio Website](#)** | Personal portfolio showcasing skills & work. | React, TailwindCSS |
-| 🤖 **[AI Chatbot](#)** | Conversational AI chatbot using NLP & ML. | Python, Transformers |
-| 📱 **[Expense Tracker App](#)** | Cross-platform app for tracking expenses. | Flutter, Firebase |
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/spotify)
 
 ---
 
-## 📊 GitHub Stats  
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balajichowdary123&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balajichowdary123&theme=tokyonight" height="165">
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=balajichowdary123&theme=radical&no-frame=true&no-bg=true&margin-w=4">
-</p>
-
----
-
-## 📈 Most Used Languages  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajichowdary123&layout=compact&theme=tokyonight">
-</p>
-
----
-
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/balajichowdary123/balajichowdary123/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
-
----
-
-## 🌍 Connect with Me  
-
-<p align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/balajichowdary123/project1">
+<img src="https://raw.githubusercontent.com/balajichowdary123/project1/main/preview.gif" alt="Project 1 Demo" width="100%">
 </a>
-<a href="https://yourportfolio.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white">
+<h3 align="center">🌐 Project One</h3>
+<p align="center">Next-gen portfolio with GSAP animations & 3D effects.</p>
+</td>
+<td width="50%">
+<a href="https://github.com/balajichowdary123/project2">
+<img src="https://raw.githubusercontent.com/balajichowdary123/project2/main/preview.gif" alt="Project 2 Demo" width="100%">
 </a>
-<a href="mailto:youremail@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-</p>
+<h3 align="center">🤖 Project Two</h3>
+<p align="center">AI-powered chatbot using Transformers & Flask API.</p>
+</td>
+</tr>
+</table>
 
 ---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=balajichowdary123&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=balajichowdary123&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balajichowdary123&theme=tokyonight&hide_border=true" height="165">
 </p>
 
 ---
 
-💡 *"First, solve the problem. Then, write the code."* — John Johnson
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/balajichowdary123/balajichowdary123/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+---
+
+## 🌍 Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+<a href="mailto:your.email@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png"/></a>
+<a href="https://yourportfolio.com"><img src="https://img.icons8.com/color/48/domain--v1.png"/></a>
+</p>
+
+---
+
+💡 *"First, solve the problem. Then, write the code."*
