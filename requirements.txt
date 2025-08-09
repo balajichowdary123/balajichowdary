@@ -1,0 +1,4 @@
+requests
+Pillow
+jinja2
+python-dateutil
